@@ -1,0 +1,16 @@
+{
+  "name": "express-archotecture",
+  "version": "1.0.0",
+  "description": "Express Architecture",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StTod/express-architecture.git"
+  },
+  "author": "Stoil Todorov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StTod/express-architecture/issues"
+  },
+  "homepage": "https://github.com/StTod/express-architecture#readme"
+}
